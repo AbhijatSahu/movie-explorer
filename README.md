@@ -20,7 +20,7 @@ A sleek and interactive **movie recommendation web app** built using [Streamlit]
 movie-app/
 ├── app.py                   # Main Streamlit application
 ├── movies.pkl               # Movie data with details and poster URLs
-├── recommendations.pkl      # Precomputed recommendations dictionary
+├── similar_movies.pkl       # Precomputed recommendations dictionary
 ├── requirements.txt         # Python dependencies
 └── README.md                # This file
 
