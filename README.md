@@ -21,14 +21,15 @@ A sleek and interactive **movie recommendation web app** built using [Streamlit]
 
 ## 📁 Folder Structure
 
+```plaintext
 movie-app/
-├── app.py # Main Streamlit application
-├── movies.pkl # Movie data with details and poster URLs
-├── recommendations.pkl # Precomputed recommendations dictionary
-├── requirements.txt # Python dependencies
-└── README.md # This file
+├── app.py                   # Main Streamlit application
+├── movies.pkl               # Movie data with details and poster URLs
+├── recommendations.pkl      # Precomputed recommendations dictionary
+├── requirements.txt         # Python dependencies
+└── README.md                # This file
 
----
+```
 
 ## 🧰 Installation
 
