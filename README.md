@@ -31,8 +31,8 @@ movie-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/movie-app.git
-cd movie-app
+git clone https://github.com/YOUR_USERNAME/movie-explorer.git
+cd movie-explorer
 
 ```
 ### 2. Install Dependencies
