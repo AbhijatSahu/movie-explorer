@@ -8,14 +8,6 @@ A sleek and interactive **movie recommendation web app** built using [Streamlit]
 
 ---
 
-## 🚀 Demo
-
-![Movie Explorer Screenshot](demo-screenshot.png)
-
-> (Add a screenshot or demo GIF here. You can name the file `demo-screenshot.png` and place it in your repo.)
-
----
-
 ## 🔧 Features
 
 - 🔍 **Fuzzy Search** – find movies even with typos
@@ -47,11 +39,11 @@ git clone https://github.com/YOUR_USERNAME/movie-app.git
 cd movie-app
 
 ```
-Install Dependencies
+### 2. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
-Run the App
+### 3. Run the App
 ```
 streamlit run app.py
 ```
